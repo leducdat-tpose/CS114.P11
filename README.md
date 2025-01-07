@@ -11,7 +11,6 @@
 
 ## BẢNG MỤC LỤC
 * [ Giới thiệu môn học](#gioithieumonhoc)
-* [Quá trình môn học](#quatrinh)
 * [ Giảng viên hướng dẫn](#giangvien)
 * [ Thành viên nhóm](#thanhvien)
 ## GIỚI THIỆU MÔN HỌC
@@ -21,17 +20,6 @@
 * **Lớp học**: CS114.P11
 * **Ngày bắt đầu**: 02/09/2024
 * **Năm học**: 2024-2025
-## QUÁ TRÌNH MÔN HỌC
-<a name ="quatrinh"></a>
-### 1.LẬP TRÌNH PYTHON
-
-
-<a name ="colab"></a>
-### 2.COLAB ASSSIGNMENTS
-
-
-<a name ="QT"></a>
-### 3.QT IN CLASS
 
 ## GIẢNG VIÊN HƯỚNG DẪN
 <a name="giangvien"></a>
@@ -43,6 +31,8 @@
 | STT    | MSSV          | Họ và Tên              | Github                                               | Email                   |
 | ------ |:-------------:| ----------------------:|-----------------------------------------------------:|-------------------------:
 | 1      | 22520213      | Lê Đức Đạt             |[dat-tpose](https://github.com/leducdat-tpose)        |22520213@gm.uit.edu.vn   |
+| 2      | 22520223      | Nguyễn Thành Đạt       |[DatNT1507](https://github.com/DatNT1507)             |22520223@gm.uit.edu.vn   |
+
 
 ## ĐỒ ÁN MÔN HỌC
 <a name="doan"></a>
